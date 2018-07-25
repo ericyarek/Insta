@@ -29,6 +29,7 @@ public class InstaTest extends TestBase{
 	
 	@Test
 	public void InstagramLiker() throws InterruptedException {
+		//FOR DAMIRA WITH LOVE
 		//LOGING IN WITH METHOD
 		instaLoginPage.InstaLogIn(getProperty("insta.username"), getProperty("insta.password"));
 		// Declining Download App
